@@ -3,7 +3,7 @@
 
 Промо-виджет - интерактивный рекламный формат для партнеров видеохостинга [Rutube](http://rutube.ru/).
 
-![alt tag](https://github.com/igorpetrovcom/RutubeShowcaseWidget/blob/master/RutubeShowcaseWidget.png)
+![alt tag](https://github.com/igorpetrov/RutubeShowcaseWidget/blob/master/RutubeShowcaseWidget.png)
 
 Содержание:
 -----------
